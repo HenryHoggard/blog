@@ -1,0 +1,3 @@
+- name: Drozer
+  category: security
+  url: https://github.com/mwrlabs/drozer

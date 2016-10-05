@@ -1,0 +1,31 @@
+- name: CSRF Vulnerability Allows for Remote Compromise of Monero Wallets
+  url: https://labs.mwrinfosecurity.com/advisories/csrf-vulnerability-allows-for-remote-compromise-of-monero-wallets/
+  date: 2016-09-23
+  cve: 
+
+- name: Android Secure USB Debugging & Lock Screen Bypass
+  url: https://labs.mwrinfosecurity.com/advisories/android-4-4-2-secure-usb-debugging-bypass/
+  date: 2014-06-04
+  cve: 
+
+
+- name: Blackberry 10 Remote Application Install & MitM
+  url: https://labs.mwrinfosecurity.com/advisories/blackberry-10-blackberry-world-mitm-cve-2014-6611/
+  date: 
+  cve: CVE-2014-6611
+
+
+- name: Paypal Android Remote Code Execution
+  date: 
+  cve: CVE-2013-7202
+  url: https://labs.mwrinfosecurity.com/advisories/2014/03/10/paypal-remote-code-execution/
+
+- name: Paypal Android SSL Bypass
+  date: 
+  cve: CVE-2013-7201
+  url: https://labs.mwrinfosecurity.com/advisories/2014/03/10/paypal-remote-code-execution/
+
+- name: Twitter SMS Account Hijack
+  url: /blog/The-bug-that-let-me-tweet-from-any-account
+  date: 2013-11-06
+  cve: 
