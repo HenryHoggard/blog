@@ -1,8 +1,12 @@
-# Threat Model Reference Guide
+---
+layout: post
+title: Threat Model Reference Guide
+tag: 
+---
 
 An up to date collection of useful conference talks, articles, tools, resources and books to learn different Threat Modeling techniques.
 
-## Conference Talks
+# Conference Talks
 
 - [Rapid Threat Modeling](https://www.youtube.com/watch?v=4zxM1KhLXvI) - Akshay Aggarwal - Blackhat USA (2005)
 - [Elevation of Privilege: The easy way to threat model](https://www.youtube.com/watch?v=vEqu5fk9rlE) - Adam Shostack - Blackhat (2010)
@@ -32,7 +36,7 @@ An up to date collection of useful conference talks, articles, tools, resources 
 * [Data Centric Threat Modeling](https://csrc.nist.gov/CSRC/media/Publications/sp/800-154/draft/documents/sp800_154_draft.pdf) - Murugiah Souppaya, Karen Scarfone (2016)
 * [Adam Shostack's Blog Posts on Threat Modeling](https://adam.shostack.org/blog/category/threat-modeling/)
 
-## Tools
+# Tools
 
 * [Elevation of Privilege (EoP) Threat Modeling Card Game](http://www.microsoft.com/en-us/download/details.aspx?id=20303)
 * [OWASP Threat Dragon](https://threatdragon.org/login)
@@ -43,7 +47,7 @@ An up to date collection of useful conference talks, articles, tools, resources 
 * [ThreatSpec](https://threatspec.org/)
 * [Threat Model SDK](https://github.com/stevespringett/threatmodel-sdk)
 
-## Resources
+# Resources
 
 * [OWASP Threat Modeling Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md)
 * [STRIDE](https://docs.microsoft.com/en-us/previous-versions/commerce-server/ee823878(v=cs.20))
@@ -54,6 +58,6 @@ An up to date collection of useful conference talks, articles, tools, resources 
 * [OWASP MASVS](https://github.com/OWASP/owasp-masvs)
 * [DREAD](https://wiki.openstack.org/wiki/Security/OSSA-Metrics#DREAD)
 
-## Books
+# Books
 
 * [Threat Modeling Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998) - Adam Shostack (2014)
