@@ -26,7 +26,7 @@ An up to date collection of useful conference talks, articles, tools, resources 
 - [Threat Model Every Story: Practical Continuous Threat Modeling Work for Your Team](https://www.youtube.com/watch?v=VbW-X0j35gw) - Izar Tarandach - AppSecCali (2019)
 - [Game On! Adding Privacy to Threat Modeling](https://www.youtube.com/watch?v=uzOdpuAhr28) - Adam Shostack, Mark Vinkovits - AppSecCali (2019)
 
-## Articles
+# Articles
 
 * [Threat Modeling What Why How](https://misti.com/infosec-insider/threat-modeling-what-why-and-how) - Adam Shostack (2018)
 * [Rolling Out a Threat Modeling Program](https://misti.com/infosec-insider/rolling-out-a-threat-modeling-program) - Adam Shostack (2018)
