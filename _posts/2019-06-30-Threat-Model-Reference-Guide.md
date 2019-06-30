@@ -54,6 +54,6 @@ An up to date collection of useful conference talks, articles, tools, resources 
 * [OWASP MASVS](https://github.com/OWASP/owasp-masvs)
 * [DREAD](https://wiki.openstack.org/wiki/Security/OSSA-Metrics#DREAD)
 
-## Books
+## Books
 
 * [Threat Modeling Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998) - Adam Shostack (2014)
